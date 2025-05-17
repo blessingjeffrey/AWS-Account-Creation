@@ -6,7 +6,7 @@
 
 ## ALGORITHM
  ### Steps 1: Create an AWS Account
- ### Steps 2:Log In as Root User
+ ### Steps 2:Log In as Root User 
  ### Steps 3:Open IAM Management Console
  ### Steps 4:Add a New IAM User
  ### Steps 5: Configure IAM User Login
